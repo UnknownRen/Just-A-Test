@@ -1,1 +1,2 @@
-print(')
+def game():
+ print("You wave up in a dark cave...")
